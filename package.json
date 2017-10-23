@@ -1,0 +1,33 @@
+{
+  "name": "gulp-npm-mainfiles",
+  "version": "1.0.0",
+  "description": "Push \"mainfiles\" from node_modules to a specific folder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/themewagon/gulp-npm-mainfiles.git"
+  },
+  "keywords": [
+    "gulp-npm-mainfiles",
+    "copy",
+    "libs",
+    "copy",
+    "dist",
+    "copy",
+    "main",
+    "files",
+    "copy",
+    "dependencies",
+    "gulp",
+    "npm"
+  ],
+  "author": "ThemeWagon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/themewagon/gulp-npm-mainfiles/issues"
+  },
+  "homepage": "https://github.com/themewagon/gulp-npm-mainfiles#readme"
+}

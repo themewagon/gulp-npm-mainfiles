@@ -1,6 +1,6 @@
 {
   "name": "gulp-npm-mainfiles",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Push \"mainfiles\" from node_modules to a specific folder",
   "main": "index.js",
   "scripts": {
@@ -29,5 +29,5 @@
   "bugs": {
     "url": "https://github.com/themewagon/gulp-npm-mainfiles/issues"
   },
-  "homepage": "https://github.com/themewagon/gulp-npm-mainfiles#readme"
+  "homepage": "https://themewagon.com"
 }

@@ -9,4 +9,4 @@ Use the package.json file as the source and this plugin will filter "mainfiles" 
 
 ## Installation
 
-  `npm install @themewagon/gulp-npm-mainfiles -D`
+  `todo`

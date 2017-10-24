@@ -1,6 +1,6 @@
 {
   "name": "gulp-npm-mainfiles",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Push \"mainfiles\" from node_modules to a specific folder",
   "main": "index.js",
   "scripts": {

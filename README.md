@@ -64,8 +64,8 @@ $ npm install gulp-npm-mainfiles -D
 ### In your gulpfile.js
 
 ```javascript
-var gulp 			= require('gulp'),
-	npmMainfiles    = require('gulp-npm-mainfiles');
+var gulp         = require('gulp'),
+    npmMainfiles = require('gulp-npm-mainfiles');
 
 /* Push main files from node modules to a specific folder*/
 gulp.task("gulp-npm-mainfiles", function () {
